@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Олег Сорокин](https://up.htmlacademy.ru/javascript/21/user/30818).
-* Наставник: `Неизвестно`.
+* Наставник: [Кексобот](https://github.com/keksobot).
 
 ---
 
